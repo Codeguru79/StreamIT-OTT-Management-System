@@ -1,0 +1,12 @@
+1|Interstellar|Sci-Fi|English|2014|8.9|169|A team travels through a wormhole to save humanity.|interstellar.jpeg
+2|Inception|Sci-Fi|English|2010|8.8|148|A thief enters dreams to steal secrets.|inception.jpeg
+3|The Dark Knight|Action|English|2008|9.0|152|Batman faces the Joker.|darkknight.jpeg
+4|Avengers Endgame|Action|English|2019|8.4|181|The Avengers fight Thanos.|endgame.jpeg
+5|John Wick|Action|English|2014|7.4|101|An ex-hitman seeks revenge.|johnwick.jpeg
+6|3 Idiots|Comedy|Hindi|2009|8.4|171|Three engineering students redefine success.|3idiots.jpeg
+7|Dangal|Drama|Hindi|2016|8.3|161|A wrestler trains his daughters.|dangal.jpeg
+8|PK|Comedy|Hindi|2014|8.1|153|An alien questions human beliefs.|pk.jpeg
+9|Drishyam|Thriller|Hindi|2015|8.2|163|A father protects his family.|drishyam.jpeg
+10|Bahubali|Action|Telugu|2015|8.0|159|An epic tale of a warrior king.|bahubali.jpeg
+11|Satluj|Action|Punjabi|2026|10|150|nice movie|satluj.jpeg
+12|From|Supernatural|English|2021|9.0|50|Supernatural fantasy movie|from.jpeg
